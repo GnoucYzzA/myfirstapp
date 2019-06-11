@@ -7,9 +7,11 @@
 li {
 list-style: none;
 }
+body {background-color: #93B874;}
 </style>
 </head>
 <body>
+
 <h1>INSERT DATA TO DATABASE</h1>
 <h2>Enter data into student table</h2>
 <ul>
